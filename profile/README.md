@@ -45,13 +45,13 @@
 
 ---
 
-![Untitled](Github%E1%84%8B%E1%85%A6%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AF%20README%20827a95ea93f74fa3b5674e53ce451f5d/Untitled.png)
+![Untitled](/Untitled.png)
 
 ## 💿 ER Diagram
 
 ---
 
-![Untitled](Github%E1%84%8B%E1%85%A6%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AF%20README%20827a95ea93f74fa3b5674e53ce451f5d/Untitled%201.png)
+![Untitled](/Untitled%201.png)
 
 ## 📚 API 문서
 
