@@ -1,0 +1,11 @@
+﻿메소드,URI,설명,구현,메모
+GET,/health,서버 생존 여부 체크,Yes,
+POST,/api/auth/sign-up,회원가입,Yes,
+POST,/api/auth/login,로그인,Yes,
+POST,/api/auth/verify,ID 중복 체크,Yes,
+GET,/api/main,메인페이지 조회,Yes,
+GET,/api/post/{postId},게시글 상세 정보 조회,Yes,
+POST,/api/post,게시글 작성,Yes,
+POST,/api/post/{postId}/comment,댓글 작성,Yes,
+POST,/api/post/{postId}like,게시글 좋아요,Yes,
+POST,/api/search?keyword={keyword},제목기반 검색,Yes,
