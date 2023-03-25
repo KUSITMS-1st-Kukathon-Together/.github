@@ -9,9 +9,10 @@
 - **Organization**: [KUSITMS-1st-Kukathon-Together](https://github.com/KUSITMS-1st-Kukathon-Together)
 
 - **Frontend**: [GitHub - KUSITMS-1st-Kukathon-Together/AOS](https://github.com/KUSITMS-1st-Kukathon-Together/AOS)
+<img src="https://file.notion.so/f/s/8562d8b9-416b-4668-9e28-b43d61a524ff/Untitled.png?table=block&id=ac0f78c8-dbf6-4a9b-9981-8e64921a5414&spaceId=a15e736d-1e85-48b0-a7fc-c3d9de9b90dd&expirationTimestamp=1679870994610&signature=x91X_UINcaY5ObOspibY4UHM2HYIXy5qwLSKZ2E5-Gg&downloadName=Untitled.png">
 
 - **Backend**: [GitHub - KUSITMS-1st-Kukathon-Together/Server](https://github.com/KUSITMS-1st-Kukathon-Together/Server)
-<img src="https://file.notion.so/f/s/1201acd9-3b24-40a0-aa31-adf7d63c4cc3/Untitled.png?table=block&id=4f521471-537a-4c5e-89d1-254eacc3f3cc&spaceId=a15e736d-1e85-48b0-a7fc-c3d9de9b90dd&expirationTimestamp=1679868552750&signature=qTSfCHAcM1U0OToaOrPPr1u3jTbSKUoH8lPFtnxJKbs&downloadName=Untitled.png">
+<img src="https://file.notion.so/f/s/8e2707f9-10e4-478f-b9fa-acb6e6d63b55/Untitled.png?table=block&id=ac306541-a689-4a75-b8c9-24ad77777d9a&spaceId=a15e736d-1e85-48b0-a7fc-c3d9de9b90dd&expirationTimestamp=1679871057003&signature=BvlibBRHJLHiS57G2_wt6FHdZQdR6i0lJQOlb8e2SIk&downloadName=Untitled.png">
 
 ## 👥 참여 학회원
 
