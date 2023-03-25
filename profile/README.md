@@ -1,4 +1,4 @@
-
+<img src="./source/thumbnail.png">
 
 ##  **✨ 온길, Ongil**
 당신의 온길이, 온기가 되다
