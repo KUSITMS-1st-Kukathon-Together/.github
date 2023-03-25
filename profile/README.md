@@ -68,11 +68,11 @@
 
 ## 🧩 시스템 아키텍쳐
 
-<img src="./source/Untitled.png">
+<img src="./profile/source/Untitled.png">
 
 ## 💿 ER Diagram
 
-<img src="./source/Untitled 1.png">
+<img src="./profile/source/Untitled 1.png">
 
 ## 📚 API 문서
 
